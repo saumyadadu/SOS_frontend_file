@@ -100,7 +100,7 @@ Make sure a device/emulator is running.
 
 ## 🙋 Author
 
-**Arpit Gupta**  
+**Saumya Dadu**  
 Developed as part of the SOS Emergency Management System.
 
 ---
